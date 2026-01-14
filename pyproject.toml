@@ -1,0 +1,12 @@
+[project]
+name = "1099668-udl"
+version = "0.1.0"
+description = "UDL Final Exam Repository"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "numpy>=2.4.0",
+    "scipy>=1.16.3",
+    "torch>=2.9.1",
+    "torchvision>=0.24.1",
+]
